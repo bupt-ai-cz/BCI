@@ -8,6 +8,8 @@
 ![datasetview_github](imgs/datasetpreview.png)
 
 ---
+## Framework
+![framework](https://github.com/bupt-ai-cz/BCI/blob/main/imgs/framework.png)
 ## Setup
 ### 1)Envs
 - Linux
@@ -73,7 +75,12 @@ python test.py --dataroot ./datasets/BCI --preprocess crop --crop_size 512 --gpu
 ```
 The testing process requires less memory, we recommend testing at full resolution, regardless of the resolution used in the training process.
 ## Evaluation(to do)
-## results
+## Results
+![visualization](imgs/results1.png)
+![results2](https://github.com/bupt-ai-cz/BCI/blob/main/imgs/results2.png) | ![results3](https://github.com/bupt-ai-cz/BCI/blob/main/imgs/results3.png)
+---|---
+![results4](https://github.com/bupt-ai-cz/BCI/blob/main/imgs/results4.png) | ![results5](https://github.com/bupt-ai-cz/BCI/blob/main/imgs/results5.png)
+---|---
 
 ## Citation(to do)
 ## Author
