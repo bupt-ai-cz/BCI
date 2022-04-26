@@ -15,6 +15,7 @@
 
 Install python packages
 ```
+git clone https://github.com/bupt-ai-cz/BCI
 cd PyramidPix2pix
 pip install -r requirements.txt
 ```
