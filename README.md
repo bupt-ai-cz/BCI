@@ -30,27 +30,27 @@ pip install -r requirements.txt
   Corresponding images in a pair {A,B} must be the same size and have the same filename, e.g., `/path/to/data/A/train/1.jpg` is considered to correspond to `/path/to/data/B/train/1.jpg`.
 
   Once the data is formatted this way, call:
-```
-python datasets/combine_A_and_B.py --fold_A /path/to/data/A --fold_B /path/to/data/B --fold_AB /path/to/data
-```
+  ```
+  python datasets/combine_A_and_B.py --fold_A /path/to/data/A --fold_B /path/to/data/B --fold_AB /path/to/data
+  ```
 
   This will combine each pair of images (A,B) into a single image file, ready for training.
 
 - File structure
-```
-PyramidPix2pix
-  ├──datasets
-       ├── BCI
-             ├──train
-             |    ├── 00000_train_1+.png
-             |    ├── 00001_train_3+.png
-             |    └── ...
-             └──test
-                  ├── 00000_test_1+.png
-                  ├── 00001_test_2+.png
-                  └── ...
-   
-```
+  ```
+  PyramidPix2pix
+    ├──datasets
+         ├── BCI
+               ├──train
+               |    ├── 00000_train_1+.png
+               |    ├── 00001_train_3+.png
+               |    └── ...
+               └──test
+                    ├── 00000_test_1+.png
+                    ├── 00001_test_2+.png
+                    └── ...
+
+  ```
 ## Train
 Train at full resolution(1024*1024): 
 ```
