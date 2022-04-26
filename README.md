@@ -80,7 +80,7 @@ The testing process requires less memory, we recommend testing at full resolutio
 ![results2](https://github.com/bupt-ai-cz/BCI/blob/main/imgs/results2.png) | ![results3](https://github.com/bupt-ai-cz/BCI/blob/main/imgs/results3.png)
 ---|---
 ![results4](https://github.com/bupt-ai-cz/BCI/blob/main/imgs/results4.png) | ![results5](https://github.com/bupt-ai-cz/BCI/blob/main/imgs/results5.png)
----|---
+
 
 ## Citation(to do)
 ## Author
