@@ -72,6 +72,8 @@ python test.py --dataroot ./datasets/BCI --preprocess crop --crop_size 512 --gpu
 ```
 The testing process requires less memory, we recommend testing at full resolution, regardless of the resolution used in the training process.
 ## Evaluation(to do)
+## results
+
 ## Citation(to do)
 ## Author
 Shengjie Liu (shengjie.Liu@bupt.edu.cn)
