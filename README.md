@@ -19,3 +19,19 @@ git clone https://github.com/bupt-ai-cz/BCI
 cd PyramidPix2pix
 pip install -r requirements.txt
 ```
+### 2)Prepare dataset
+- File structure
+```
+PyramidPix2pix
+  ├──datasets
+       ├── BCI
+             ├──train
+             |    ├── 00000_train_1+.png
+             |    ├── 00001_train_3+.png
+             |    └── ...
+             └──test
+                  ├── 00000_test_1+.png
+                  ├── 00001_test_2+.png
+                  └── ...
+   
+```
