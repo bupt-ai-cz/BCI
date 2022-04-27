@@ -93,4 +93,6 @@ python evaluate.py --result_path ./results/pyramidpix2pix
 ## Contact
 Shengjie Liu (shengjie.Liu@bupt.edu.cn)
 
+Chuang Zhu (czhu@bupt.edu.cn)
+
 If you have any questions, you can contact me directly.
