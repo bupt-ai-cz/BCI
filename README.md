@@ -57,11 +57,13 @@ pip install -r requirements.txt
 ## Train
 Train at full resolution(1024*1024): 
 ```
-python train.py --dataroot ./datasets/BCI --gpu_ids 0
+python train.py --dataroot ./datasets/BCI --gpu_ids 0 --pattern L1_L2_L3_L4
 ```
+By default, four scales of the pyramid are used for supervision. You can change the option `--pattern` to use less scales (e.g. `--pattern L1_L2_L3`).
+
 Train at resolution 512*512 (less GPU memory required):
 ```
-python train.py --dataroot ./datasets/BCI --preprocess crop --crop_size 512 --gpu_ids 0
+python train.py --dataroot ./datasets/BCI --preprocess crop --crop_size 512 --gpu_ids 0 --pattern L1_L2_L3_L4
 ```
 Images are randomly cropped if trained at low resolution.
 ## Test
@@ -72,7 +74,9 @@ python test.py --dataroot ./datasets/BCI --gpu_ids 0
 Test at resolution 512*512:
 ```
 python test.py --dataroot ./datasets/BCI --preprocess crop --crop_size 512 --gpu_ids 0
+
 ```
+See `PyramidPix2pix/options` for more train and test options.
 <!-- The testing process requires less memory, we recommend testing at full resolution, regardless of the resolution used in the training process. -->
 ## Evaluate
 Calculate average PSNR and SSIM.
