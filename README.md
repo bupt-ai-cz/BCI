@@ -73,7 +73,7 @@ Test at resolution 512*512:
 ```
 python test.py --dataroot ./datasets/BCI --preprocess crop --crop_size 512 --gpu_ids 0
 ```
-The testing process requires less memory, we recommend testing at full resolution, regardless of the resolution used in the training process.
+<!-- The testing process requires less memory, we recommend testing at full resolution, regardless of the resolution used in the training process. -->
 ## Evaluation(to do)
 ## Results
 ![visualization](imgs/results1.png)
