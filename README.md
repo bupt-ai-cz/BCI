@@ -74,7 +74,11 @@ Test at resolution 512*512:
 python test.py --dataroot ./datasets/BCI --preprocess crop --crop_size 512 --gpu_ids 0
 ```
 <!-- The testing process requires less memory, we recommend testing at full resolution, regardless of the resolution used in the training process. -->
-## Evaluation(to do)
+## Evaluate
+Calculate average PSNR and SSIM.
+```
+python evaluate.py --result_path ./results/pyramidpix2pix
+```
 ## Results
 ![visualization](imgs/results1.png)
 ![results2](https://github.com/bupt-ai-cz/BCI/blob/main/imgs/results2.png) | ![results3](https://github.com/bupt-ai-cz/BCI/blob/main/imgs/results3.png)
