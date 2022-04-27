@@ -74,7 +74,6 @@ python test.py --dataroot ./datasets/BCI --gpu_ids 0
 Test at resolution 512*512:
 ```
 python test.py --dataroot ./datasets/BCI --preprocess crop --crop_size 512 --gpu_ids 0
-
 ```
 See `PyramidPix2pix/options` for more train and test options.
 <!-- The testing process requires less memory, we recommend testing at full resolution, regardless of the resolution used in the training process. -->
