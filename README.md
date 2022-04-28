@@ -5,7 +5,7 @@
 - ⚡(2022-4-25): The data can be downloaded [HERE!](https://bupt-ai-cz.github.io/BCI/)
 ---
 
-![datasetview_github](imgs/datasetpreview2.png)
+![datasetview_github](imgs/datasetpreview4.png)
 
 ---
 ## Framework
