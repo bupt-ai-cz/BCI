@@ -14,4 +14,4 @@ This BCI Dataset is made freely available to academic and non-academic entities 
 
 ## Privacy
 
-We will take care to remove personally identifiable information. Furthermore, we prohibit you from using the Datasets in any manner to identify or invade the privacy of any person. If you have any privacy concerns, including to remove your information from the Dataset, please contact us by sending an e-mail to shengjie.Liu@bupt.edu.cn, czhu@bupt.edu.cn, or bupt.ai.cz@gmail.com.
+All data are desensitized, and the private information has been removed. If you have any privacy concerns, please contact us by sending an e-mail to shengjie.Liu@bupt.edu.cn, czhu@bupt.edu.cn, or bupt.ai.cz@gmail.com.
