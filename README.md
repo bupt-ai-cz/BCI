@@ -91,6 +91,14 @@ python evaluate.py --result_path ./results/pyramidpix2pix
 
 
 ## Citation(to do)
+```
+@article{liu2022bci,
+  title={BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix},
+  author={Liu, Shengjie and Zhu, Chuang and Xu, Feng and Jia, Xinyu and Shi, Zhongyue and Jin, Mulan},
+  journal={arXiv preprint arXiv:2204.11425},
+  year={2022}
+}
+```
 ## Contact
 Shengjie Liu (shengjie.Liu@bupt.edu.cn)
 
