@@ -90,7 +90,7 @@ python evaluate.py --result_path ./results/pyramidpix2pix
 ![results4](https://github.com/bupt-ai-cz/BCI/blob/main/imgs/results4.png) | ![results5](https://github.com/bupt-ai-cz/BCI/blob/main/imgs/results5.png)
 
 
-## Citation(to do)
+## Citation
 ```
 @article{liu2022bci,
   title={BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix},
