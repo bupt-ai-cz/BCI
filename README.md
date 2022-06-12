@@ -92,10 +92,11 @@ python evaluate.py --result_path ./results/pyramidpix2pix
 
 ## Citation
 ```
-@article{liu2022bci,
+@inproceedings{liu2022bci,
   title={BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix},
   author={Liu, Shengjie and Zhu, Chuang and Xu, Feng and Jia, Xinyu and Shi, Zhongyue and Jin, Mulan},
-  journal={arXiv preprint arXiv:2204.11425},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1815--1824},
   year={2022}
 }
 ```
