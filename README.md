@@ -92,12 +92,13 @@ python evaluate.py --result_path ./results/pyramidpix2pix
 
 ## Citation
 ```
-@inproceedings{liu2022bci,
-  title={BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix},
-  author={Liu, Shengjie and Zhu, Chuang and Xu, Feng and Jia, Xinyu and Shi, Zhongyue and Jin, Mulan},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={1815--1824},
-  year={2022}
+@InProceedings{Liu_2022_CVPR,
+    author    = {Liu, Shengjie and Zhu, Chuang and Xu, Feng and Jia, Xinyu and Shi, Zhongyue and Jin, Mulan},
+    title     = {BCI: Breast Cancer Immunohistochemical Image Generation Through Pyramid Pix2pix},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2022},
+    pages     = {1815-1824}
 }
 ```
 ## Contact
