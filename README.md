@@ -3,7 +3,7 @@
 
 ## News
 - ⚡(2022-4-26): We have released the code of PyramidPix2pix.
-- ⚡(2022-4-25): The data can be downloaded [HERE!](https://bupt-ai-cz.github.io/BCI/)
+- ⚡(2022-4-25): The data is available [HERE!](https://bupt-ai-cz.github.io/BCI/)
 ---
 
 ![datasetview_github](imgs/datasetpreview6.png)
