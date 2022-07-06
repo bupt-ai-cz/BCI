@@ -4,7 +4,10 @@
 ## News
 - ⚡(2022-6-29): We host a competition for breast cancer immunohistochemistry image generation on [Grand Challenge](https://bci.grand-challenge.org/)！
 - ⚡(2022-4-26): We have released the code of PyramidPix2pix.
+
+<!--
 - ⚡(2022-4-25): The data is available [HERE!](https://bupt-ai-cz.github.io/BCI/)
+-->
 ---
 
 ![datasetview_github](imgs/datasetpreview6.png)
