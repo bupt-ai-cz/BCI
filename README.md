@@ -87,6 +87,12 @@ Calculate average PSNR and SSIM.
 ```
 python evaluate.py --result_path ./results/pyramidpix2pix
 ```
+## Trained models
+| dataset |     device      | backbone | PSNR | SSIM | model |
+|---------|-----------------|-----------------------|------------|--------|-------|
+|  BCI    | Tesla V100-32GB | resnet_9  | 21.16    | 0.477  |   [download](https://drive.google.com/file/d/1y_juW7C2HRKUMasXUsDLc3SEtB4pGzDf/view?usp=sharing)    |
+| LLVIP   | Tesla V100-32GB | resnet_9  | 12.189   | 0.279  |   [download](https://drive.google.com/file/d/1Tl8eMRsYLeTP4OQS9vAEqLpKwfrakOyi/view?usp=sharing)    |
+
 ## Results
 ![visualization](imgs/results1.png)
 ![results2](https://github.com/bupt-ai-cz/BCI/blob/main/imgs/results2.png) | ![results3](https://github.com/bupt-ai-cz/BCI/blob/main/imgs/results3.png)
