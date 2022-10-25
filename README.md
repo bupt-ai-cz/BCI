@@ -4,7 +4,7 @@
 ## News
 - ⚡(2022-10-20): We have released the trained [model](https://github.com/bupt-ai-cz/BCI#trained-models) on BCI and LLVIP datasets.
 - ⚡(2022-6-29): We host a competition for breast cancer immunohistochemistry image generation on [Grand Challenge](https://bci.grand-challenge.org/)！
-- ⚡(2022-4-26): We have released the code of PyramidPix2pix.
+- ⚡(2022-4-26): We have released BCI dataset and the code of PyramidPix2pix. You can download BCI dataset from the [homepage](https://bupt-ai-cz.github.io/BCI/).
 
 <!--
 - ⚡(2022-4-25): The data is available [HERE!](https://bupt-ai-cz.github.io/BCI/)
