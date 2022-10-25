@@ -90,8 +90,8 @@ python evaluate.py --result_path ./results/pyramidpix2pix
 ## Trained models
 | dataset |     device      | backbone | PSNR | SSIM | model |
 |---------|-----------------|-----------------------|------------|--------|-------|
-|  BCI    | Tesla V100-32GB | resnet_9  | 21.16    | 0.477  |   [download](https://drive.google.com/file/d/1y_juW7C2HRKUMasXUsDLc3SEtB4pGzDf/view?usp=sharing)    |
-| LLVIP   | Tesla V100-32GB | resnet_9  | 12.189   | 0.279  |   [download](https://drive.google.com/file/d/1Tl8eMRsYLeTP4OQS9vAEqLpKwfrakOyi/view?usp=sharing)    |
+|  BCI    | Tesla V100-32GB | resnet_9  | 21.16    | 0.477  |   [download](https://github.com/bupt-ai-cz/BCI/releases/download/v1.0/trained_on_BCI.zip)    |
+| LLVIP   | Tesla V100-32GB | resnet_9  | 12.189   | 0.279  |   [download](https://github.com/bupt-ai-cz/BCI/releases/download/v1.0/trained_on_LLVIP.zip)    |
 
 ## Results
 ![visualization](imgs/results1.png)
